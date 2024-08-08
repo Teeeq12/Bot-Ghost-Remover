@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Play Ketamin Service"];
+const statusMessages = ["Playing Ketamin Service"];
 
 
 let currentIndex = 0;
